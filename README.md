@@ -39,7 +39,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/Zve5cHTNKrM?si=-0pdlZGfdIVbByEu" title="Go to Source">
-        <img align="center" width=100% src="Imagenes/Login Hospital.jpg"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="Imagenes/5Aritmeticod.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://youtu.be/Zve5cHTNKrM?si=-0pdlZGfdIVbByEu" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>

@@ -13,7 +13,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,css,html,js,nodejs,mysql,sqlite,git,github,eclipse,vscode,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,css,html,js,nodejs,mysql,sqlite,git,github,eclipse,vscode,react,express.js,javascriptps&perline=12" />
   </a>
 </p>
 <br>

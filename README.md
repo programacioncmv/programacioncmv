@@ -1,6 +1,5 @@
 [![ProfileBanner](https://github.com/programacioncmv/programacioncmv/blob/main/Imagenes/JAVA%200%20INTRO%201.png)](https://Davekibh.github.io)
 
-<img align="right" alt="GIF" src="https://github.com/programacioncmv/programacioncmv/blob/main/Imagenes/JAVA%200%20INTRO%201.png" width="400" height="280" />
 
 - 🔭 I’m currentlystudying Software Engineering.
 - 🌱 I’m currently learning Backend Development.

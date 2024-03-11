@@ -123,10 +123,7 @@ Text         9 mins          █░░░░░░░░░░░░░░░░
 <div align="center">
   
 
-### Show ❤️ by 🌟 my [repositories](https://github.com/Davekibh?tab=repositories)!
+### Show ❤️ by 🌟 my [repositories](https://github.com/programacioncmv?tab=repositories)!
 
 </div>
 -----
-Credits: [Davekibh](https://github.com/Davekibh)
-
-Last Edited on: 15/01/2021

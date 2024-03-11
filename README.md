@@ -9,15 +9,14 @@
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
 
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
 <p align="left">
-  <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/9c200782-56bc-4ecb-95b6-c97abb008acc" alt="express.js">
-  <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/fa97a5fd-86ae-4e0d-9ac6-4998882e2d6a" alt="node.js">
-  <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/15de2b0d-e6b4-4e0a-9f51-ee1307b265f1" alt="mysql">
-  <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/5799f75f-ea1a-446f-8f04-f80fea71490f" alt="react">
-  <img src="https://github.com/Cbermudez98/Cbermudez98/assets/54110212/8510c6d7-f42b-4798-9db9-c31917a83686" alt="github">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,css,html,js,nodejs,mysql,sqlite,git,github,eclipse,vscode,ps&perline=12" />
+  </a>
 </p>
-
-<br/>
+<br>
 
 
 ---

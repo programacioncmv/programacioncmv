@@ -11,7 +11,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 - 🌱 I’m currently learning Backend Development.
 - 💬 Ask me about (Java, Node ) Backend Development.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7.
+- ⚡ Fun fact: I 💖 to reading and studying!
 - 🎢 Profile Visitors Count:  
 ![](https://visitor-badge.glitch.me/badge?page_id=Davekibh.Davekibh)
 
@@ -46,27 +46,19 @@ Languages and Tools🛠:
 
 <br/>
 
-<a href="https://t.me/Dave_bhandari">
-  <img align="left" alt="Dave's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
-</a>
-
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/programacioncmv">
   <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
 </a>
 
-<a href="https://instagram.com/Dave_bhandari/">
+<a href="https://www.instagram.com/carlosmarrugo.js/">
   <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
-<a href="https://www.facebook.com/people/Dave-Bhandari/100005906536571">
+<a href="https://www.facebook.com/profile.php?id=100088089481948">
   <img align="left" alt="Dave's Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />
 </a>
 
-<a href="https://twitter.com/dave_bhandari">
-  <img align="left" alt="Dave's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
-</a>
-
-<a href="https://linkedin.com/in/dave-bhandari-4a74761a7/">
+<a href="https://www.linkedin.com/in/carlos-marrugo-701261283/">
   <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 

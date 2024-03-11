@@ -9,7 +9,7 @@ I am interested in learning DS,ML,AI and would 💖 to grow my knowledge in thes
 
 - 🔭 I’m currently working on Frontend Web Development & Android Development.
 - 🌱 I’m currently learning Backend Development.
-- 💬 Ask me about Backend Development.
+- 💬 Ask me about (Java, Node ) Backend Development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I 💖 to code 24x7.
 - 🎢 Profile Visitors Count:  
